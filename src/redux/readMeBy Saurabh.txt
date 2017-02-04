@@ -1,0 +1,1 @@
+These two files show use of a single reducer and multiple reducers. Hence these two files are not related to each other as such. Ideally use one of them at a time.

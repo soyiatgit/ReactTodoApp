@@ -1,0 +1,87 @@
+h1{
+margin:0;
+}
+.todoContainer{
+	width:420px;
+	margin:auto;
+}
+.bodyClass{
+	background-color:#000;
+}
+.header{
+height:70px;
+width:100%;
+background-color : green;
+padding-top:20px;
+box-sizing:border-box;
+}
+.bluecontainer{
+height:auto;
+width:100%;
+background-color : rgb(156, 196, 192);
+}
+.redcontainer{
+height:500px;
+width:100%;
+background-color : #bddbb6;
+}
+.footer{
+height:70px;
+width:100%;
+background-color : green;
+}
+.links{
+	display: inline-block;
+    width: 200px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none !important;
+}
+.linkHolder{
+	    padding: 140px 100px;
+}
+.inline{
+	display: inline-block;
+}
+.todo{
+	margin: 10px 20px;
+}
+.btn-todo{
+	padding: 2px 6px;
+}
+.todo-margin{
+	margin:2px 5px;
+}
+.todo-width{
+	width:235px;
+}
+.todo-header{
+	margin: 0px 10px;
+	padding: 10px 0px;
+}
+.todo-input-div{
+	padding:10px 10px 20px 10px;
+	display:none;
+	background-color: rgba(45, 93, 86, 0.88);
+	color: #fff;
+}
+.todo-input-box{
+	width:auto;
+	border: 2px solid white;
+	margin: 0px 20px 0px 10px;
+}
+.todos-div{
+	height:440px;
+	max-height:440px;
+	overflow-y : auto;
+}
+.passive-todo{
+	display:block;
+}
+.active-todo{
+	display:block;
+}
+.hide-todo{
+	display:none;
+}
